@@ -14,6 +14,6 @@ A tensor has static type and dynamic dimensions.You cannot cannot change while e
 # There are three main types of tensor
 1-tf.variable= It can be changed.It may contain the weights of neural network.The entity ch=an be changed during calculation.
 2-tf.constant= the entity are immutable.for example fix values in your model.
-3-tf.placeholder= The entity ill not changed at each evaluation phase. Usually input of datasets or learning rates are used.
+3-tf.placeholder= The entity will not changed at each evaluation phase. Usually input of datasets or learning rates are used.
 
 
